@@ -1,18 +1,15 @@
-# 🎤 Simulador de Entrevista com IA
+# Simulador de Entrevista com IA
 
 Sistema de simulação de entrevista/prova oral usando:
 
-* 🎙️ Gravação de voz
-* 🧠 Transcrição com Whisper
-* 🤖 Geração de pergunta com IA local
-* 📊 Avaliação automática da resposta
-* 🔊 Feedback em áudio
-
-Tudo rodando localmente, sem pagar API.
-
+* Gravação de voz
+* Transcrição com Whisper
+* Geração de pergunta com IA local
+* Avaliação automática da resposta
+* Feedback em áudio
 ---
 
-# 🚀 Como Funciona
+# Como Funciona
 
 1. A IA gera uma pergunta sobre IA / ML / Redes Neurais
 2. Você responde por voz
@@ -23,13 +20,11 @@ Tudo rodando localmente, sem pagar API.
 
 ---
 
-# 🧠 Tecnologias Usadas
+# Tecnologias Usadas
 
-* Python 3.14
+* Python
 * Whisper (transcrição de voz)
 * Ollama (execução de LLM local)
 * Mistral 7B (modelo de linguagem)
 * sounddevice (gravação)
 * gTTS (texto para voz)
-
----
